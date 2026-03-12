@@ -8,10 +8,10 @@ categories: Travel
 featured: true
 ---
 
-![Meeting two Persian cats on the train](/assets/img/blog/train_cats.jpg){:class="img-fluid rounded z-depth-1"}
-<div class="caption">
-    The two Persian cats I met on my way from BLR to Gujarat.
-</div>
+<figure>
+  <img src="{{ '/assets/img/blog/train_cats.jpg' | relative_url }}" class="img-fluid rounded z-depth-1">
+  <figcaption>The two Persian cats I met on my way from BLR to Gujarat.</figcaption>
+</figure>
 
 My first trip to Vasai started on the night of **March 7th**. It wasn't just a move for a new job; it was my first time experiencing a **1AC train journey**. 
 
