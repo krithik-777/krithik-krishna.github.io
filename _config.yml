@@ -269,19 +269,6 @@ display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] #
 display_categories: ["Travel", "Life Experiences", "Entertainment", "FPGA & Tech"]
 
 # -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
-
-contact_email: your.email@example.com  # Replace with your actual email
-contact_email: your.email@example.com  # Replace with your actual email
-github_username: krithik-777
-linkedin_username: krithik-krishna-ku # Replace with your LinkedIn handle
-# scholar_id:                          # LEAVE BLANK to remove Einstein
-# facebook_id:                         # LEAVE BLANK to remove placeholder
-
-socials_in_search: true
-
-# -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
