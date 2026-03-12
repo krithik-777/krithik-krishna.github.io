@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://krithik-krishna.github.io/sitemap.xml
+Sitemap: https://krithik-777.github.io/sitemap.xml
