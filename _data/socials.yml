@@ -8,6 +8,6 @@ linkedin_username: krithik-krishna/ # Replace with your actual LinkedIn username
 github_username: krithik-777
 # inspirehep_id: # DELETED to remove academic placeholders
 # scholar_userid: # DELETED to remove Einstein link
-rss_icon: false # Set to false to keep the footer clean
+# rss_icon: false # Set to false to keep the footer clean
 
 # Custom Social section removed to get rid of the Einstein website link and logo
